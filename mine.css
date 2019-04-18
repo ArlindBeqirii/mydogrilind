@@ -1,0 +1,22 @@
+.menu{
+	background-color: #D3D3D3;
+	width: 100%
+}
+
+
+
+ul, li{
+	list-style-type: none;
+		text-align: center; 
+			display: inline;
+				margin-left: 150px;
+				text-decoration: none; 
+
+}
+ul,li,a{	text-decoration: none;
+			color: black;
+
+			 }
+img{
+	width: 100%
+}
